@@ -1,0 +1,12 @@
+{
+  "name": "integer-to-string",
+  "version": "1.0.5",
+  "description": "",
+  "type": "module",
+  "main": "Int_to_Str.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
